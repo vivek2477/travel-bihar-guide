@@ -128,7 +128,7 @@ const destinations: Destination[] = [
     name: "Gaya",
     shortDescription: "Important pilgrimage center for Hindus",
     fullDescription: "Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It's known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop. To the north, Hindu devotees perform rituals for the dead at a series of riverside ghats near a huge Banyan tree. Southwest of town, Bodh Gaya is a key Buddhist pilgrimage site, home to the Buddha's Bodhi Tree.",
-    imageSrc: "https://images.unsplash.com/photo-1612714221244-8995d14e5c67?q=80&w=2874&auto=format&fit=crop",
+    imageSrc: "https://media.tripinvites.com/places/bodh-gaya/vishnupad-temple/vishnupad-temple-a-wonder-featured.jpg",
     imageAlt: "Vishnupad Temple in Gaya",
     location: "Gaya district, Bihar",
     directions: {
