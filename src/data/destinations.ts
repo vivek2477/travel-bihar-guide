@@ -29,7 +29,7 @@ const destinations: Destination[] = [
     name: "Bodh Gaya",
     shortDescription: "Sacred Buddhist pilgrimage site where Buddha attained enlightenment",
     fullDescription: "Bodh Gaya is a religious site and place of pilgrimage associated with the Mahabodhi Temple Complex in Gaya district in the Indian state of Bihar. It is famous as it is the place where Gautama Buddha is said to have attained Enlightenment under what became known as the Bodhi Tree. The site contains a descendant of the Bodhi Tree under which Buddha gained enlightenment, and has been a major pilgrimage destination for Buddhists for well over two thousand years, and some elements probably date to the period of Ashoka (died c.232 BCE).",
-    imageSrc: "https://images.unsplash.com/photo-1590077428593-a55bb07c4665?q=80&w=2942&auto=format&fit=crop",
+    imageSrc: "https://www.tripsavvy.com/thmb/QZUBiTCTl2BvMAAla9vmUBqQEAk=/2120x1414/filters:fill(auto,1)/GettyImages-618355052-b865a78b33cf412b915909ad9d941f27.jpg",
     imageAlt: "Mahabodhi Temple at Bodh Gaya",
     location: "Bodh Gaya, Gaya district, Bihar",
     directions: {
@@ -62,7 +62,7 @@ const destinations: Destination[] = [
     name: "Nalanda University Ruins",
     shortDescription: "Ancient center of learning and UNESCO World Heritage site",
     fullDescription: "Nalanda was an ancient Mahavihara, a large Buddhist monastery in the ancient kingdom of Magadha (modern-day Bihar) in India. It was a center of learning from the fifth century CE to c. 1200 CE. Today, it is a UNESCO World Heritage Site. The ruins of the ancient university at Nalanda are spread over an area of 14 hectares. The main stupa built by Emperor Ashoka was renovated multiple times and many small stupas and shrines were added over a period of time. Nalanda was one of the world's first residential universities with dormitories for students and was an architectural masterpiece.",
-    imageSrc: "https://images.unsplash.com/photo-1623770789392-9e31e49fe15b?q=80&w=2940&auto=format&fit=crop",
+    imageSrc: "https://th.bing.com/th/id/OIP.-Y_y0hRaXMUYRdPTaGLdEgHaGB?w=190&h=180&c=7&r=0&o=5&dpr=1.9&pid=1.7",
     imageAlt: "Ancient ruins of Nalanda University",
     location: "Nalanda district, Bihar, approximately 90 km from Patna",
     directions: {
@@ -95,7 +95,7 @@ const destinations: Destination[] = [
     name: "Rajgir",
     shortDescription: "Ancient city with hot springs and religious significance",
     fullDescription: "Rajgir is an ancient city in Bihar, famous for its association with Buddhism and Jainism. It was the first capital of the kingdom of Magadha, a state that would eventually evolve into the Mauryan Empire. Its date of origin is unknown, although ceramics dating to about 1000 BCE have been found in the city. The city was in a valley surrounded by five hills. The site is sacred to both Buddhists and Jains, as both religions trace back important founders to Rajgir. The place also has various hot springs which are believed to have medicinal properties that can cure many skin diseases.",
-    imageSrc: "https://images.unsplash.com/photo-1588065394015-68bf7c64bc0d?q=80&w=2065&auto=format&fit=crop",
+    imageSrc: "https://mediaindia.eu/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-02-at-15.30.29.jpeg",
     imageAlt: "View of Rajgir with its surrounding hills",
     location: "Rajgir, Nalanda district, Bihar",
     directions: {
@@ -161,7 +161,7 @@ const destinations: Destination[] = [
     name: "Patna",
     shortDescription: "Capital city with rich historical significance",
     fullDescription: "Patna is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India. The state capital, it's home to Bihar Museum, a contemporary landmark exhibiting bronze sculptures and old coins from the region. Nearby, Indo-Saracenic–style Patna Museum displays a casket believed to contain the Buddha's ashes. Close to the river, the Golghar is a domed colonial granary overlooking the city.",
-    imageSrc: "https://images.unsplash.com/photo-1625730129339-4040b3410a2f?q=80&w=2940&auto=format&fit=crop",
+    imageSrc: "https://www.cabbazar.com/assets/img/trips/patna.jpg",
     imageAlt: "Skyline of Patna city with the Ganges River",
     location: "Capital city of Bihar, located on the southern bank of the Ganges River",
     directions: {
