@@ -90,7 +90,7 @@ const Index = () => {
               <div className="order-1 lg:order-2 relative animate-fade-in">
                 <div className="relative z-10 rounded-2xl overflow-hidden shadow-xl h-80 lg:h-full">
                   <img 
-                    src="https://images.unsplash.com/photo-1623770789392-9e31e49fe15b?q=80&w=2940&auto=format&fit=crop" 
+                    src="https://www.caleidoscope.in/wp-content/uploads/2020/08/nalanda-viswavidyalaya.jpg" 
                     alt="Ancient Nalanda University Ruins" 
                     className="w-full h-full object-cover"
                   />
