@@ -194,7 +194,7 @@ const destinations: Destination[] = [
     name: "Vaishali",
     shortDescription: "Ancient city associated with Buddha and Lord Mahavira",
     fullDescription: "Vaishali is an ancient city in Bihar, India, and is one of the world's first examples of a republic. It is an important pilgrimage for both Buddhists and Jains alike. Buddha visited this place frequently and at Kolhua, close by, preached his last sermon. To commemorate the event, Emperor Ashoka, in the third century BC erected one of his famous lion pillars here. The Lion Pillar of Ashoka still stands in Vaishali. This city was also an important center for the Jain community, as Lord Mahavira, the last and 24th Tirthankara (enlightened spiritual teacher) of Jainism was born in this region.",
-    imageSrc: "https://images.unsplash.com/photo-1575448913281-98e9e5d3f193?q=80&w=2148&auto=format&fit=crop",
+    imageSrc: "https://static2.tripoto.com/media/filter/nl/img/4866/TripDocument/1439483734_4.jpg",
     imageAlt: "Ashoka Pillar at Vaishali",
     location: "Vaishali district, Bihar, approximately 55 km from Patna",
     directions: {
